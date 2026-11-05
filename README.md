@@ -9,3 +9,5 @@ This is my first Git repository.
 - GitHub stores repositories online
 
 
+## New Feature
+This is a cool new feature.
